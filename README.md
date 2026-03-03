@@ -2,8 +2,8 @@
 <h3 align="center">A passionate AI & Data Science Professional specializing in Finance</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmhaaa3218&show_icons=true&theme=tokyonight&hide_border=true" alt="Manh Ha's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmhaaa3218&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=nmhaaa3218&show_icons=true&theme=tokyonight&hide_border=true" alt="Manh Ha's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmhaaa3218&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
