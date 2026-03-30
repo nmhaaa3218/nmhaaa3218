@@ -24,7 +24,7 @@
 - 🎯 Mission: Bridge the gap between business problems and AI solutions
 - 📫 How to reach me: **manh.ha.3218@gmail.com**
 
-> *"Most AI failures aren't technical — they're problems of understanding. Understanding the P&L, the user, the business constraint."*
+> *"Most AI failures aren't technical - they're problems of understanding. Understanding the P&L, the user, the business constraint."*
 
 ---
 
