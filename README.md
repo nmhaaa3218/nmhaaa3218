@@ -72,19 +72,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmhaaa3218&theme=radical&hide_border=false&rank_icon=github" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmhaaa3218&theme=radical&hide_border=false&layout=compact" alt="Top Languages" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nmhaaa3218&theme=radical&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 <p align="center">
