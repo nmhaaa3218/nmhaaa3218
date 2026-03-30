@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2D8CFF&background=0D111700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Manh+Ha+Nguyen;AI+Engineer+%7C+Finance+%2B+AI+%2B+Data+Science" alt="Typing SVG">
-</h1>
+<h1 align="center">Ha Manh Nguyen</h1>
+<p align="center">AI Engineer | Finance + AI + Data Science</p>
 
 <h3 align="center">
   <a href="https://hamanhnguyen.vercel.app">
@@ -19,12 +18,12 @@
 ## 🚀 About Me
 
 - 🔭 Currently building **AI platforms for financial document intelligence** at [FiinGroup](https://fiingroup.vn)
-- 📊 Background in **Finance + Computer Science** (University of Adelaide, GPA: 6.375/7.0)
+- 📊 Background in **Quantitative Finance + Computer Science** (University of Adelaide, GPA: 6.375/7.0)
 - 💡 Focused on: **LLM Agents, RAG Systems, Computer Vision, Quantitative Research**
 - 🎯 Mission: Bridge the gap between business problems and AI solutions
 - 📫 How to reach me: **manh.ha.3218@gmail.com**
 
-> *"Most AI failures aren't technical - they're problems of understanding. Understanding the P&L, the user, the business constraint."*
+> *"Most AI failures aren't technical — they're problems of understanding. Understanding the P&L, the user, the business constraint."*
 
 ---
 
