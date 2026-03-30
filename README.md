@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently building **AI platforms for financial document intelligence** at [FiinGroup](https://fiingroup.vn)
-- 📊 Background in **Quantitative Finance + Computer Science** (University of Adelaide, GPA: 6.375/7.0)
+- 📊 Background in **Finance + Computer Science** (University of Adelaide, GPA: 6.375/7.0)
 - 💡 Focused on: **LLM Agents, RAG Systems, Computer Vision, Quantitative Research**
 - 🎯 Mission: Bridge the gap between business problems and AI solutions
 - 📫 How to reach me: **manh.ha.3218@gmail.com**
