@@ -50,25 +50,33 @@
 ## 📂 Featured Projects
 
 ### 🤖 [Vietnamese Stock Market Financial Reasoning Agent](https://github.com/nmhaaa3218/Finance-LLM-Agent-ASRS2024)
-> Multi-agent RAG system for financial question answering with autonomous query routing
-
-- Built a custom RAG architecture integrating Self-RAG with Corrective-RAG
-- Validated on 1,000+ documents with robust information retrieval
-- Fine-tuned ModernBERT for multi-agent classification with lower latency
+Architected an intelligent query routing system that classifies prompts and autonomously decomposes complex, multi-step financial questions into parallel sub-tasks. Integrated 7+ domain-specific tools for real-time analysis.
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-Yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
 ### 👁️ [Ultra Efficient Facial Expression Recognition](https://github.com/nmhaaa3218/CV-Facial-Expression)
-> Lightweight computer vision model for real-time emotion detection
-
-- Developed a 2-model EfficientNet-B0 ensemble achieving **68.74% accuracy**
-- Optimized to only **0.046 GFLOPs** for real-time performance
-- Built using PyTorch and Streamlit for easy deployment
+Developed a lightweight 2-model EfficientNet-B0 ensemble achieving 68.74% accuracy with only 0.046 GFLOPs, optimized for real-time facial emotion recognition.
+<p>
+  <img src="https://img.shields.io/badge/EfficientNet-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv12-FF5722?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ensemble_Learning-9C27B0?style=flat-square" />
+</p>
 
 ### 🚂 [Rail Break Detection AI](https://github.com/nmhaaa3218/ADDS-S1-2023)
-> Predictive maintenance model for the Australian Rail Track Corporation
-
-- Processed 2.9+ million lines of historical fuel price data for WA
-- Built geospatial analysis pipeline with OSMnx achieving **90.3% mapping accuracy**
-- Achieved F1 score of **0.6** using XGBoost on ARTC sensor data
+Built a Predictive Maintenance model using real-world sensor data from the Australian Rail Track Corporation (ARTC) to detect rail breaks with an F1 score of 0.6.
+<p>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+</p>
 
 ---
 
