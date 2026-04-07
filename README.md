@@ -68,7 +68,7 @@ Developed a lightweight 2-model EfficientNet-B0 ensemble achieving 68.74% accura
   <img src="https://img.shields.io/badge/Ensemble_Learning-9C27B0?style=flat-square" />
 </p>
 
-### 🚂 [Rail Break Detection AI](https://github.com/nmhaaa3218/ADDS-S1-2023)
+### 🚂 [Rail Break Detection AI]()
 Built a Predictive Maintenance model using real-world sensor data from the Australian Rail Track Corporation (ARTC) to detect rail breaks with an F1 score of 0.6.
 <p>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
