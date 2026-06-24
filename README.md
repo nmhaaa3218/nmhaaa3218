@@ -1,5 +1,5 @@
 <h1 align="center">Ha Manh Nguyen</h1>
-<p align="center">AI Engineer | Finance + AI + Data Science</p>
+<p align="center">Full-Stack AI Engineer</p>
 
 <h3 align="center">
   <a href="https://hamanhnguyen.vercel.app">
@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/manhhanguyen">
     <img src="https://img.shields.io/badge/LinkedIn-Manh%20Ha%20Nguyen-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://upwork.com">
+  <a href="https://www.upwork.com/freelancers/~0101e8d46c08db3037">
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A96D?style=flat-square&logo=upwork&logoColor=white" alt="Upwork">
   </a>
 </h3>
@@ -18,8 +18,8 @@
 ## 🚀 About Me
 
 - 🔭 Currently building **AI platforms for financial intelligence** at [FiinGroup](https://fiingroup.vn)
-- 📊 Background in **Finance + Computer Science** (University of Adelaide, GPA: 6.375/7.0)
-- 💡 Focused on: **LLM Agents, RAG Systems, Computer Vision, Quantitative Research**
+- 📊 Background in **Finance + Data Science** (University of Adelaide, GPA: 6.375/7.0)
+- 💡 Focused on: **Multi-Agent Systems, Natural Language Processing, Predictive Machine Learning, Quantitative Research**
 - 🎯 Mission: Bridge the gap between business problems and AI solutions
 - 📫 How to reach me: **manh.ha.3218@gmail.com**
 
@@ -88,7 +88,7 @@ Built a Predictive Maintenance model using real-world sensor data from the Austr
   <a href="https://github.com/nmhaaa3218" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://upwork.com" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~0101e8d46c08db3037" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-14A96D?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
   <a href="mailto:manh.ha.3218@gmail.com">
