@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **AI platforms for financial intelligence** at [FiinGroup](https://fiingroup.vn)
+- 🔭 Currently **AI Engineer** at [FiinGroup](https://fiingroup.vn)
 - 📊 Background in **Finance + Data Science** (University of Adelaide, GPA: 6.375/7.0)
 - 💡 Focused on: **Multi-Agent Systems, Natural Language Processing, Predictive Machine Learning, Quantitative Research**
 - 🎯 Mission: Bridge the gap between business problems and AI solutions
