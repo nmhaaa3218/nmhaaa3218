@@ -22,7 +22,7 @@
 
 I build AI systems designed for measurable operational impact. With a background spanning **Finance, Data Science, and AI Engineering**, I understand both the business and technical logic — bridging the gap from P&L metrics and balance sheets to production-grade model architectures.
 
-- 🎓 Incoming **Master of Engineering: Computer Science (Major in Artificial Intelligence)** at [KU Leuven](https://www.kuleuven.be/programmes/master-engineering-computer-science) · *Leuven, Belgium*
+- 🎓 Currently a **Master of Engineering: Computer Science (Major in Artificial Intelligence)** student at [KU Leuven](https://www.kuleuven.be/programmes/master-engineering-computer-science) · *Leuven, Belgium*
 - 💼 Former **AI Engineer** at [FiinGroup JSC](https://fiingroup.vn) (Co-architected & shipped [FiinPro-X MCP](https://fiingroup.vn/vi/news-fg/fiinpro-x-mcp-ket-noi-du-lieu-tai-chinh-viet-nam-voi-tro-ly-ai-id3099563.html) & [FiinQuant MCP](https://mcp.fiinquant.vn/))
 - 📊 Concurrent Dual-Degree in **Computer Science (Data Science) & Finance** from the [University of Adelaide](https://www.adelaide.edu.au/) (Overall GPA: **6.375 / 7.0**)
 - 💡 Core Focus: **Model Context Protocol (MCP), Multi-Agent Systems, Financial Reasoning, Quantitative ML, Document Intelligence & RAG**
