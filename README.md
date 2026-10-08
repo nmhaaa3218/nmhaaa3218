@@ -29,7 +29,7 @@ I build AI systems designed for measurable operational impact. With a background
 - 🎯 Mission: Bridge the gap between domain complexity, financial intelligence, and production AI
 - 📫 Reach me: **manh.ha.3218@gmail.com**
 
-> *"Most AI failures aren't technical — they're problems of understanding. Understanding the P&L, the user, the business constraint."*
+> *"Most AI failures aren't technical - they're problems of understanding. Understanding the P&L, the user, the business constraint."*
 
 ---
 
