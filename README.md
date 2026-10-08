@@ -1,5 +1,5 @@
 <h1 align="center">Ha Manh Nguyen</h1>
-<p align="center"><b>Master of Engineering: Computer Science Student @ KU Leuven | AI Engineer (AI & Finance)</b></p>
+<p align="center"><b>Master of Engineering: Computer Science Student @ KU Leuven | AI/ML Engineer (AI & Finance)</b></p>
 
 <h3 align="center">
   <a href="https://hamanhnguyen.vercel.app">
@@ -25,7 +25,7 @@ I build AI systems designed for measurable operational impact. With a background
 - 🎓 Currently a **Master of Engineering: Computer Science (Major in Artificial Intelligence)** student at [KU Leuven](https://www.kuleuven.be/programmes/master-engineering-computer-science) · *Leuven, Belgium*
 - 💼 Former **AI Engineer** at [FiinGroup JSC](https://fiingroup.vn) (Co-architected & shipped [FiinPro-X MCP](https://fiingroup.vn/vi/news-fg/fiinpro-x-mcp-ket-noi-du-lieu-tai-chinh-viet-nam-voi-tro-ly-ai-id3099563.html) & [FiinQuant MCP](https://mcp.fiinquant.vn/))
 - 📊 Concurrent Dual-Degree in **Computer Science (Data Science) & Finance** from the [University of Adelaide](https://www.adelaide.edu.au/) (Overall GPA: **6.375 / 7.0**)
-- 💡 Core Focus: **Model Context Protocol (MCP), Multi-Agent Systems, Financial Reasoning, Quantitative ML, Document Intelligence & RAG**
+- 💡 Core Focus: **Multi-Agent Systems, Financial Reasoning, Quantitative ML, Big Data Analytics**
 - 🎯 Mission: Bridge the gap between domain complexity, financial intelligence, and production AI
 - 📫 Reach me: **manh.ha.3218@gmail.com**
 
