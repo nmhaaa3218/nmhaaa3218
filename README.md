@@ -162,7 +162,7 @@ Built a predictive maintenance model with sensor data from the Australian Rail T
 
 ## 🎓 Education & Certifications
 
-- 🏛️ **KU Leuven** *(Incoming)* — Master of Engineering: Computer Science (Major in Artificial Intelligence)
+- 🏛️ **KU Leuven** *(Sep 2026 - Current)* — Master of Engineering: Computer Science (Major in Artificial Intelligence)
 - 🏛️ **University of Adelaide** *(July 2021 – July 2025)* — Concurrent Dual-Degree Program (Overall GPA: **6.375 / 7.0**)
   - **Bachelor of Mathematical and Computer Sciences** (Major in Data Science)
   - **Bachelor of Finance** (Major in Finance)
